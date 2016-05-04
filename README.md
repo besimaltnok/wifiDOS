@@ -13,6 +13,10 @@ Kablosuz ağlara DOS saldırı gerçekleştirmek amacı ile Scapy ile gerliştir
 * --help    : Yardım görüntülemek amacı ile kullanılabilir.
 
 
+##### Etraftaki istemcileri analiz etmek için :
+
+* airodump-ng wlan0
+
 ##### Örnek Kullanım
 
 * python wifiDOS.py -m b -a AP_mac -i wlan0
