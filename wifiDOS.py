@@ -2,7 +2,7 @@
 
 from scapy.all import *
 import argparse
-import sys, os
+
 iface = 'wlan0'
 
 helpme = """
