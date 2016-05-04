@@ -11,3 +11,9 @@ Kablosuz ağlara DOS saldırı gerçekleştirmek amacı ile Scapy ile gerliştir
 * -i iface  : Saldırıda kullanılacak ve monitor mod durumunda olacak ağ kartı
 * -a AP_mac : Saldırı düzenlenecek erişim noktasının mac adres bilgisi
 * --help    : Yardım görüntülemek amacı ile kullanılabilir.
+
+
+##### Örnek Kullanım
+
+* python wifiDOS.py -m b -a AP_mac -i wlan0
+* python wifiDOs.py -m c -a AP_mac -c Client_mac -i wlan0
