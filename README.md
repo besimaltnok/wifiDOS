@@ -2,7 +2,7 @@
 
 Kablosuz ağlara DOS saldırı gerçekleştirmek amacı ile Scapy ile gerliştirilmiş bir araçtır.
 
-[scapydos](https://github.com/besimaltnok/wifiDOS/blob/master/wifidos.png)
+<a href="#" rel="some text">![scapydos](https://github.com/besimaltnok/wifiDOS/blob/master/wifidos.png)</a>
 
 ##### Kullanılabilir Parametreler 
 
