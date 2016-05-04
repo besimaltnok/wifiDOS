@@ -17,3 +17,8 @@ Kablosuz ağlara DOS saldırı gerçekleştirmek amacı ile Scapy ile gerliştir
 
 * python wifiDOS.py -m b -a AP_mac -i wlan0
 * python wifiDOs.py -m c -a AP_mac -c Client_mac -i wlan0
+
+
+NOT : Erişim noktası ile saldırıyı düzenlemek amacı ile kullandığımız ağ kartı aynı kanalda olmalıdır.
+Bunun için : 
+- iwconfig wlan0 channel kanal_numarası konutu kullanabiliriz.
