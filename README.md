@@ -2,6 +2,8 @@
 
 Kablosuz ağlara DOS saldırı gerçekleştirmek amacı ile Scapy ile gerliştirilmiş bir araçtır.
 
+[scapydos](https://github.com/besimaltnok/wifiDOS/blob/master/wifidos.png)
+
 ##### Kullanılabilir Parametreler 
 
 * -m Mode   : Saldırı modunu tanımlamak için kullanılmalıdır. (b: Tüm istemcilere saldırı - c : Sadece bir istemciye yönelik)
