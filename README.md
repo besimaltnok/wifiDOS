@@ -25,4 +25,4 @@ Kablosuz ağlara DOS saldırı gerçekleştirmek amacı ile Scapy ile gerliştir
 
 NOT : Erişim noktası ile saldırıyı düzenlemek amacı ile kullandığımız ağ kartı aynı kanalda olmalıdır.
 Bunun için : 
-- iwconfig wlan0 channel kanal_numarası konutu kullanabiliriz.
+- iwconfig wlan0 channel kanal_numarası komutunu kullanabiliriz.
